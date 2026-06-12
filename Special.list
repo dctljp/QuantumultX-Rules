@@ -77,7 +77,7 @@ HOST,ubi.com,DIRECT
 # > Tailscale
 IP-CIDR,100.64.0.0/10,DIRECT
 
-# >客户网站
+# > CSTMS
 host-suffix, time.123in.link,Proxy
 HOST-SUFFIX,themeforest.net,Hong Kong
 HOST-SUFFIX,worldfms.com,Proxy
@@ -85,6 +85,10 @@ HOST-SUFFIX,stoneshop.com.ar,Proxy
 HOST-SUFFIX,tartan-fish.co.uk,Proxy
 HOST-SUFFIX,emart.com,Proxy
 HOST-SUFFIX,truthsocial.com,Proxy
+HOST-SUFFIX,ganka.ca,United States
+HOST,deerhunter.eu,Outside
+HOST-SUFFIX,ezps.com,Direct
+HOST-SUFFIX,freepik.com,Outside
 
 # >磁力下载
 HOST-SUFFIX,xiongmaogb.top,Outside
@@ -92,14 +96,6 @@ HOST-SUFFIX,lemonuo.top,Outside
 HOST-SUFFIX,soskr.top,Outside
 HOST-SUFFIX,skrbtgb.top,Outside
 HOST-SUFFIX,123panfx.com,Hong Kong
-
-# >客户
-HOST-SUFFIX,ganka.ca,United States
-HOST,deerhunter.eu,Outside
-HOST-SUFFIX,ezps.com,Direct
-
-# >业务用网站
-HOST-SUFFIX,freepik.com,Outside
 
 # >NBA
 HOST-SUFFIX,api2.amplitude.com,NBA
