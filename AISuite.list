@@ -1,0 +1,72 @@
+# =======================================================
+# > AI Suite (ChatGPT, Claude, Gemini, Copilot, DeepSeek, etc.)
+# =======================================================
+2026年6月12日更新
+# -------------------------------
+# > ChatGPT & OpenAI & Sora
+# -------------------------------
+HOST-SUFFIX,ai.com,AI Suite
+HOST-SUFFIX,chatgpt.com,AI Suite
+HOST-SUFFIX,openai.com,AI Suite
+HOST-SUFFIX,oaistatic.com,AI Suite
+HOST-SUFFIX,oaiusercontent.com,AI Suite
+HOST-SUFFIX,sora.com,AI Suite
+# OpenAI 登录、支付与特定组件精确分流
+HOST,auth0.openai.com,AI Suite
+HOST,platform.openai.com,AI Suite
+HOST,pay.openai.com,AI Suite
+
+# -------------------------------
+# > Claude (Anthropic)
+# -------------------------------
+HOST-SUFFIX,anthropic.com,AI Suite
+HOST-SUFFIX,claude.ai,AI Suite
+HOST-SUFFIX,claude.com,AI Suite
+HOST-SUFFIX,claudeusercontent.com,AI Suite
+
+# -------------------------------
+# > Gemini & Google AI
+# -------------------------------
+HOST-SUFFIX,gemini.google.com,AI Suite
+HOST-SUFFIX,ai.google.dev,AI Suite
+HOST-SUFFIX,aistudio.google.com,AI Suite
+HOST,generativelanguage.googleapis.com,AI Suite
+HOST,proactivebackend-pa.googleapis.com,AI Suite
+HOST,aida.googleapis.com,AI Suite
+HOST,aisandbox-pa.googleapis.com,AI Suite
+
+# -------------------------------
+# > Copilot & Microsoft AI
+# -------------------------------
+HOST,copilot.microsoft.com,AI Suite
+HOST,sydney.bing.com,AI Suite
+HOST-SUFFIX,githubcopilot.com,AI Suite
+HOST-SUFFIX,copilot.google,AI Suite
+
+# -------------------------------
+# > Perplexity AI
+# -------------------------------
+HOST-SUFFIX,perplexity.ai,AI Suite
+HOST-SUFFIX,pplx.ai,AI Suite
+
+# -------------------------------
+# > Meta AI
+# -------------------------------
+HOST-SUFFIX,meta.ai,AI Suite
+
+# -------------------------------
+# > DeepSeek (新增)
+# -------------------------------
+HOST-SUFFIX,deepseek.com,AI Suite
+
+# -------------------------------
+# > Groq (新增)
+# -------------------------------
+HOST-SUFFIX,groq.com,AI Suite
+
+# -------------------------------
+# > Apple Intelligence / Siri
+# -------------------------------
+HOST,apple-relay.apple.com,AI Suite
+HOST,apple-relay.cloudflare.com,AI Suite
+HOST,guzzoni.smoot.apple.com,AI Suite
