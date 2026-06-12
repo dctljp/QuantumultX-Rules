@@ -80,11 +80,11 @@ IP-CIDR,100.64.0.0/10,DIRECT
 # > CSTMS
 host-suffix, time.123in.link,Proxy
 HOST-SUFFIX,themeforest.net,Hong Kong
-HOST-SUFFIX,worldfms.com,Proxy
-HOST-SUFFIX,stoneshop.com.ar,Proxy
-HOST-SUFFIX,tartan-fish.co.uk,Proxy
-HOST-SUFFIX,emart.com,Proxy
-HOST-SUFFIX,truthsocial.com,Proxy
+HOST-SUFFIX,worldfms.com,United States
+HOST-SUFFIX,stoneshop.com.ar,United States
+HOST-SUFFIX,tartan-fish.co.uk,United States
+HOST-SUFFIX,emart.com,United States
+HOST-SUFFIX,truthsocial.com,United States
 HOST-SUFFIX,ganka.ca,United States
 HOST,deerhunter.eu,Outside
 HOST-SUFFIX,ezps.com,Direct
