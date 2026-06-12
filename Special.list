@@ -1,0 +1,208 @@
+# > Apple CDN
+USER-AGENT,com.apple.appstored*,DIRECT
+HOST,aod.itunes.apple.com,DIRECT
+HOST,api.smoot.apple.cn,DIRECT
+HOST,appldnld.apple.com,DIRECT
+HOST,apptrailers.itunes.apple.com,DIRECT
+HOST,gs-loc-cn.apple.com,DIRECT
+HOST,iosapps.itunes.apple.com,DIRECT
+HOST,music.apple.com,DIRECT
+HOST,mvod.itunes.apple.com,DIRECT
+HOST,osxapps.itunes.apple.com,DIRECT
+HOST,supportdownload.apple.com,DIRECT
+HOST,swcdn.apple.com,DIRECT
+HOST,updates-http.cdn-apple.com,DIRECT
+HOST-SUFFIX,ls.apple.com,DIRECT
+
+# > Duet
+USER-AGENT,duet*,DIRECT
+
+# > Epic
+HOST-KEYWORD,epicgames,DIRECT
+
+# > Microsoft
+USER-AGENT,Microsoft%20Remote%20Desktop*,DIRECT
+HOST-SUFFIX,msftconnecttest.com,DIRECT
+
+# > PlayStation
+HOST-SUFFIX,dl.playstation.net,DIRECT
+
+# > Steam
+USER-AGENT,Steam*,DIRECT
+HOST,cm.steampowered.com,DIRECT
+HOST,ol.epicgames.com,DIRECT
+HOST-SUFFIX,steamcontent.com,DIRECT
+HOST-SUFFIX,steamserver.net,DIRECT
+HOST-SUFFIX,steamchina.com,DIRECT
+
+HOST,csgo.wmsj.cn,DIRECT
+HOST,dota2.wmsj.cn,DIRECT
+HOST,wmsjsteam.com,DIRECT
+
+HOST,dl.steam.clngaa.com,DIRECT
+HOST,dl.steam.ksyna.com,DIRECT
+HOST,gstore.val.manlaxy.com,DIRECT
+
+HOST,st.dl.bscstorage.net,DIRECT
+HOST,st.dl.eccdnx.com,DIRECT
+HOST,st.dl.pinyuncloud.com,DIRECT
+
+HOST,steampipe.steamcontent.tnkjmec.com,DIRECT
+
+HOST,steampowered.com.8686c.com,DIRECT
+HOST,steamstatic.com.8686c.com,DIRECT
+
+HOST,steambroadcast.akamaized.net,DIRECT
+HOST,steamcdn-a.akamaihd.net,DIRECT
+HOST,steamcommunity-a.akamaihd.net,DIRECT
+HOST,steamstore-a.akamaihd.net,DIRECT
+HOST,steamusercontent-a.akamaihd.net,DIRECT
+HOST,steamuserimages-a.akamaihd.net,DIRECT
+
+# > Tesla
+HOST,tesla-cdn.thron.cn,DIRECT
+HOST,tesla-cdn.thron.com,DIRECT
+HOST-SUFFIX,solarcity.com,DIRECT
+HOST-SUFFIX,tesla.cn,DIRECT
+HOST-SUFFIX,tesla.com,DIRECT
+HOST-SUFFIX,tesla.com.cn,DIRECT
+HOST-SUFFIX,teslamotors.cn,DIRECT
+HOST-SUFFIX,teslamotors.com,DIRECT
+HOST-SUFFIX,teslamotors.com.cn,DIRECT
+HOST-SUFFIX,ts.la,DIRECT
+
+# > UBI
+HOST,ubi.com,DIRECT
+
+# > Tailscale
+IP-CIDR,100.64.0.0/10,DIRECT
+
+# >客户网站
+host-suffix, time.123in.link,Proxy
+HOST-SUFFIX,themeforest.net,Hong Kong
+HOST-SUFFIX,worldfms.com,Proxy
+HOST-SUFFIX,stoneshop.com.ar,Proxy
+HOST-SUFFIX,tartan-fish.co.uk,Proxy
+HOST-SUFFIX,emart.com,Proxy
+HOST-SUFFIX,truthsocial.com,Proxy
+
+# >磁力下载
+HOST-SUFFIX,xiongmaogb.top,Outside
+HOST-SUFFIX,lemonuo.top,Outside
+HOST-SUFFIX,soskr.top,Outside
+HOST-SUFFIX,skrbtgb.top,Outside
+HOST-SUFFIX,123panfx.com,Hong Kong
+
+# >客户
+HOST-SUFFIX,ganka.ca,United States
+HOST,deerhunter.eu,Outside
+HOST-SUFFIX,ezps.com,Direct
+
+# >业务用网站
+HOST-SUFFIX,freepik.com,Outside
+
+# >NBA
+HOST-SUFFIX,api2.amplitude.com,NBA
+HOST-SUFFIX,nba.com,NBA
+HOST-SUFFIX,usestoryteller.com,NBA
+HOST-SUFFIX,omtrdc.net,NBA
+host,rest-prod-nba.evergent.com,NBA
+HOST-SUFFIX,akamaized.net,NBA
+HOST-SUFFIX,jrkan.com,NBA
+HOST-SUFFIX,jrkankan.com,NBA
+HOST-SUFFIX,jrkan365.com,NBA
+HOST-SUFFIX,jrskan.com,NBA
+HOST-SUFFIX,jrsyyds.com,NBA
+
+
+# >Adobe
+HOST-SUFFIX,adobe.com,United States
+
+# >个人使用习惯的一些网站
+HOST-SUFFIX,nba.hupu.com,Direct
+HOST-SUFFIX,toutiao.com,Direct
+HOST-SUFFIX,lnsqxj.xyz,Direct
+HOST-SUFFIX,10jqka.com.cn,Direct
+HOST-SUFFIX,0033.com,Direct
+HOST-SUFFIX,realsee.com,Direct
+HOST-SUFFIX,lianjia.com,Direct
+HOST-SUFFIX,wechat.com,Direct
+HOST-SUFFIX,imgse.com,Direct
+HOST-SUFFIX,speedtest.net,Direct
+HOST-SUFFIX,bdstatic.com,Direct
+HOST-SUFFIX,yinfans.me,Direct
+HOST-SUFFIX,gaoqingw.com,Direct
+HOST-SUFFIX,yisou.fun,Direct
+HOST-SUFFIX,wpxz.org,Direct
+HOST-KEYWORD,wechat,Direct
+HOST-KEYWORD,douyu,Direct
+HOST-SUFFIX,jd.com,Direct
+HOST-SUFFIX,appstorrent.ru,Outside
+HOST-SUFFIX,jukan.xyz,Outside
+HOST-SUFFIX,500px.com,Outside
+hOST-SUFFIX,500px.org,Outside
+HOST-SUFFIX,nexitally.com,Outside
+host-suffix,githubusercontent.com,Outside
+HOST-SUFFIX,okgg.xyz,Outside
+HOST-SUFFIX,okgg.top,Outside
+HOST-SUFFIX,dellcomputer.online,Outside
+HOST-SUFFIX,duyaoss.com,Outside
+HOST-SUFFIX,immtel.com,Outside
+HOST-SUFFIX,ark.to,Outside
+HOST-SUFFIX,panmill.xyz,Outside
+HOST-SUFFIX,flower.yt,Outside
+HOST-SUFFIX,espn.com,Outside
+HOST-SUFFIX,oracle.com,Final
+HOST-SUFFIX,flowercloud.yt,Final
+HOST-SUFFIX,nordstrom.com,Final
+HOST-SUFFIX,speedtest.net,Proxy
+HOST-SUFFIX,Amazon.com,United States
+HOST-SUFFIX,Bing.com,United States
+HOST-SUFFIX,gemini.google.com,United States
+HOST-KEYWORD,meituan,Direct
+HOST-SUFFIX,byteeffecttos.com,Direct
+HOST-SUFFIX,snssdk.com,Direct
+HOST-SUFFIX,fuckimm.com,Outside
+HOST-SUFFIX,waitsun.com,Outside
+HOST-SUFFIX,z-lib.id,Outside
+HOST-SUFFIX,godaddy.com,United States
+
+# >色色的网站
+HOST-SUFFIX,xchina.co,Outside
+HOST-SUFFIX,jable.tv,Japan
+
+# > WiFiman
+HOST-SUFFIX,app-measurement.com,DIRECT
+
+# > Xunlei
+USER-AGENT,%E8%BF%85%E9%9B%B7,DIRECT
+HOST-SUFFIX,xunlei.com,DIRECT
+
+# > Private Tracker
+HOST-SUFFIX,audiences.me,DIRECT
+HOST-SUFFIX,awesome-hd.me,DIRECT
+HOST-SUFFIX,broadcasthe.net,DIRECT
+HOST-SUFFIX,chdbits.co,DIRECT
+HOST-SUFFIX,classix-unlimited.co.uk,DIRECT
+HOST-SUFFIX,dmhy.best,DIRECT
+HOST-SUFFIX,empornium.me,DIRECT
+HOST-SUFFIX,gazellegames.net,DIRECT
+HOST-SUFFIX,hdchina.org,DIRECT
+HOST-SUFFIX,hdsky.me,DIRECT
+HOST-SUFFIX,icetorrent.org,DIRECT
+HOST-SUFFIX,jpopsuki.eu,DIRECT
+HOST-SUFFIX,keepfrds.com,DIRECT
+HOST-SUFFIX,madsrevolution.net,DIRECT
+HOST-SUFFIX,m-team.cc,DIRECT
+HOST-SUFFIX,nanyangpt.com,DIRECT
+HOST-SUFFIX,ncore.cc,DIRECT
+HOST-SUFFIX,open.cd,DIRECT
+HOST-SUFFIX,ourbits.club,DIRECT
+HOST-SUFFIX,passthepopcorn.me,DIRECT
+HOST-SUFFIX,privatehd.to,DIRECT
+HOST-SUFFIX,redacted.ch,DIRECT
+HOST-SUFFIX,sandai.net,DIRECT
+HOST-SUFFIX,springsunday.net,DIRECT
+HOST-SUFFIX,tjupt.org,DIRECT
+HOST-SUFFIX,totheglory.im,DIRECT
+HOST-SUFFIX,smtp,DIRECT
