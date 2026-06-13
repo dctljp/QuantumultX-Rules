@@ -54,9 +54,8 @@ HOST-SUFFIX,pplx.ai,AI Suite
 HOST-SUFFIX,meta.ai,AI Suite
 
 # -------------------------------
-# > DeepSeek (新增)
-# -------------------------------
-HOST-SUFFIX,deepseek.com,AI Suite
+# > Arena 竞技场 (新增)
+HOST-SUFFIX,arena.ai,AI Suite
 
 # -------------------------------
 # > Groq (新增)
