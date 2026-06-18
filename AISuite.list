@@ -62,14 +62,6 @@ HOST-SUFFIX,arena.ai,AI Suite
 # -------------------------------
 HOST-SUFFIX,groq.com,AI Suite
 
-# -------------------------------
-# > oMLX (新增huggingface下载镜像地址)
-# -------------------------------
-HOST-SUFFIX,hf-mirror.com,Direct
-
-
-
-
 
 # -------------------------------
 # > Apple Intelligence / Siri
