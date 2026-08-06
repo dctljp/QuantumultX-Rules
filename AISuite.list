@@ -62,6 +62,10 @@ HOST-SUFFIX,arena.ai,AI Suite
 # -------------------------------
 HOST-SUFFIX,groq.com,AI Suite
 
+# -------------------------------
+# > HUGGINGFACE (新增)
+# -------------------------------
+HOST-SUFFIX,huggingface.co,AI Suite
 
 # -------------------------------
 # > Apple Intelligence / Siri
