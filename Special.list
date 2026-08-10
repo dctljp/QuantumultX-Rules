@@ -1,32 +1,10 @@
-# >个人使用习惯的一些网站
-HOST-SUFFIX,wallhaven.cc,Outside
-HOST-SUFFIX,nba.hupu.com,Direct
-HOST-SUFFIX,toutiao.com,Direct
-HOST-SUFFIX,lnsqxj.xyz,Direct
-HOST-SUFFIX,10jqka.com.cn,Direct
-HOST-SUFFIX,0033.com,Direct
-HOST-SUFFIX,realsee.com,Direct
-HOST-SUFFIX,lianjia.com,Direct
-HOST-SUFFIX,wechat.com,Direct
-HOST-SUFFIX,imgse.com,Direct
-HOST-SUFFIX,speedtest.net,Direct
-HOST-SUFFIX,bdstatic.com,Direct
-HOST-SUFFIX,yinfans.me,Direct
-HOST-SUFFIX,gaoqingw.com,Direct
-HOST-SUFFIX,yisou.fun,Direct
-HOST-SUFFIX,wpxz.org,Direct
-HOST-KEYWORD,wechat,Direct
-HOST-KEYWORD,douyu,Direct
-HOST-SUFFIX,jd.com,Direct
+# >个人使用习惯的一些国外网站
 HOST-SUFFIX,appstorrent.ru,Outside
 HOST-SUFFIX,jukan.xyz,Outside
 HOST-SUFFIX,500px.com,Outside
 hOST-SUFFIX,500px.org,Outside
 HOST-SUFFIX,nexitally.com,Outside
 host-suffix,githubusercontent.com,Outside
-HOST-SUFFIX,okgg.xyz,Outside
-HOST-SUFFIX,okgg.top,Outside
-HOST-SUFFIX,dellcomputer.online,Outside
 HOST-SUFFIX,duyaoss.com,Outside
 HOST-SUFFIX,immtel.com,Outside
 HOST-SUFFIX,ark.to,Outside
@@ -48,6 +26,20 @@ HOST-SUFFIX,waitsun.com,Outside
 HOST-SUFFIX,z-lib.id,Outside
 HOST-SUFFIX,godaddy.com,United States
 
+# >个人使用习惯的国内网站
+HOST-SUFFIX,wallhaven.cc,Outside
+HOST-SUFFIX,nba.hupu.com,Direct
+HOST-SUFFIX,toutiao.com,Direct
+HOST-SUFFIX,lnsqxj.xyz,Direct
+HOST-SUFFIX,10jqka.com.cn,Direct
+HOST-SUFFIX,realsee.com,Direct
+HOST-SUFFIX,lianjia.com,Direct
+HOST-SUFFIX,wechat.com,Direct
+HOST-SUFFIX,imgse.com,Direct
+HOST-SUFFIX,speedtest.net,Direct
+HOST-SUFFIX,bdstatic.com,Direct
+HOST-SUFFIX,yinfans.me,Direct
+HOST-SUFFIX,gaoqingw.com,Direct
 
 # > Apple CDN
 USER-AGENT,com.apple.appstored*,DIRECT
