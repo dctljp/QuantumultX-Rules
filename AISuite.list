@@ -33,6 +33,8 @@ HOST,generativelanguage.googleapis.com,AI Suite
 HOST,proactivebackend-pa.googleapis.com,AI Suite
 HOST,aida.googleapis.com,AI Suite
 HOST,aisandbox-pa.googleapis.com,AI Suite
+HOST,stitch.withgoogle.com,AI Suite
+HOST-SUFFIX,withgoogle.com,AI Suite
 
 # -------------------------------
 # > Copilot & Microsoft AI
