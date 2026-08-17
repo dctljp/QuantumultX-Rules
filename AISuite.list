@@ -2,6 +2,12 @@
 # > AI Suite (ChatGPT, Claude, Gemini, Copilot, DeepSeek, etc. )
 # =======================================================
 # -------------------------------
+# > Other AI websites
+# -------------------------------
+HOST-SUFFIX,n1n.ai,AI Suite
+
+
+# -------------------------------
 # > ChatGPT & OpenAI & Sora
 # -------------------------------
 HOST-SUFFIX,ai.com,AI Suite
