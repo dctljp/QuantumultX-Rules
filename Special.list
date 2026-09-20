@@ -7,6 +7,7 @@ HOST-SUFFIX,dillards.com,Outside
 HOST-SUFFIX,urban-planet.com,Outside
 HOST-SUFFIX,adobe.com,Outside
 HOST-SUFFIX,adobe.io,Outside
+HOST-SUFFIX,adobelogin.com，Outside
 
 # >个人使用习惯的一些国外网站
 HOST-SUFFIX,appstorrent.ru,Outside
