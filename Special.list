@@ -8,6 +8,16 @@ HOST-SUFFIX,urban-planet.com,Outside
 HOST-SUFFIX,adobe.com,Outside
 HOST-SUFFIX,adobe.io,Outside
 HOST-SUFFIX,adobelogin.com，Outside
+host-suffix, adobecces.com, Outside
+host-suffix, adobesc.com, Outside
+host-suffix, adobess.com, Outside
+host-suffix, adobedtm.com, Outside
+host-suffix, adobelogin.com, Outside
+host-suffix, adobeoobe.com, Outside
+host-suffix, adobedc.net, Outside
+host-suffix, typekit.com, Outside
+host-suffix, scene7.com, Outside
+host-suffix, behance.net, Outside
 
 # >个人使用习惯的一些国外网站
 HOST-SUFFIX,appstorrent.ru,Outside
