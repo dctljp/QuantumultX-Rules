@@ -5,6 +5,8 @@ HOST-SUFFIX,tresspass.com,Outside
 HOST-SUFFIX,gulliver.ru,Outside
 HOST-SUFFIX,dillards.com,Outside
 HOST-SUFFIX,urban-planet.com,Outside
+
+# > Adobe / Creative Cloud / Firefly（置于最前，避免被 Mainland ASN 规则按污染 IP 强制直连）
 HOST-SUFFIX,adobe.com,Outside
 HOST-SUFFIX,adobe.io,Outside
 host-suffix, adobecces.com, Outside
