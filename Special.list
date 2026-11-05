@@ -10,7 +10,7 @@ HOST-SUFFIX,lowes.com,CustomersWebsite
 HOST-SUFFIX,cdrl.pl,CustomersWebsite
 HOST-SUFFIX,basspro.com,CustomersWebsite
 HOST-SUFFIX,proff.dk,CustomersWebsite
-HOST-SUFFIX,terrax-onlineshop.de,CustoemrsWebsite
+HOST-SUFFIX,terrax-onlineshop.de,CustomersWebsite
 
 
 # > Adobe / Creative Cloud / Firefly（置于最前，避免被 Mainland ASN 规则按污染 IP 强制直连）
