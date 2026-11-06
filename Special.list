@@ -27,6 +27,9 @@ host-suffix, typekit.com, Outside
 host-suffix, scene7.com, Outside
 host-suffix, behance.net, Outside
 
+# >那啥网站
+HOST-SUFFIX,jable.tv,Japan
+
 # >个人使用习惯的一些国外网站
 HOST-SUFFIX,appstorrent.ru,Outside
 HOST-SUFFIX,jukan.xyz,Outside
