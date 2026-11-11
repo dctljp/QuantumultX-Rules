@@ -12,6 +12,7 @@ HOST-SUFFIX,basspro.com,CustomersWebsite
 HOST-SUFFIX,proff.dk,CustomersWebsite
 HOST-SUFFIX,terrax-onlineshop.de,CustomersWebsite
 HOST-SUFFIX,allescoinc.com,CustomersWebsite
+HOST-SUFFIX,pgspartners.net,CustomersWebsite
 
 # > Adobe / Creative Cloud / Firefly（置于最前，避免被 Mainland ASN 规则按污染 IP 强制直连）
 HOST-SUFFIX,adobe.com,Outside
