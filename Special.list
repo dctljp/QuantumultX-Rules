@@ -17,16 +17,19 @@ HOST-SUFFIX,pgspartners.net,CustomersWebsite
 # > Adobe / Creative Cloud / Firefly（置于最前，避免被 Mainland ASN 规则按污染 IP 强制直连）
 HOST-SUFFIX,adobe.com,Outside
 HOST-SUFFIX,adobe.io,Outside
-host-suffix, adobecces.com, Outside
-host-suffix, adobesc.com, Outside
-host-suffix, adobess.com, Outside
-host-suffix, adobedtm.com, Outside
-host-suffix, adobelogin.com, Outside
-host-suffix, adobeoobe.com, Outside
-host-suffix, adobedc.net, Outside
-host-suffix, typekit.com, Outside
-host-suffix, scene7.com, Outside
-host-suffix, behance.net, Outside
+host-suffix, adobecces.com,Outside
+host-suffix, adobesc.com,Outside
+host-suffix, adobess.com,Outside
+host-suffix, adobedtm.com,Outside
+host-suffix, adobelogin.com,Outside
+host-suffix, adobeoobe.com,Outside
+host-suffix, adobedc.net,Outside
+host-suffix, typekit.com,Outside
+host-suffix, scene7.com,Outside
+host-suffix, behance.net,Outside
+
+# >设计类网站国外
+host-suffix,freepik.com,Outside
 
 # >那啥网站
 HOST-SUFFIX,jable.tv,Japan
