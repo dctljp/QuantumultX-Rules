@@ -29,7 +29,7 @@ host-suffix, scene7.com,Outside
 host-suffix, behance.net,Outside
 
 # >设计类网站国外
-host-suffix,freepik.com,Outside
+host-suffix,freepik.com,CustomersWebsite
 
 # >那啥网站
 HOST-SUFFIX,jable.tv,Japan
